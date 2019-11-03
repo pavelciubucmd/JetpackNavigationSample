@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/AFragment"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Fragment A"/>
+
+    <item
+        android:id="@+id/DFragment"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Fragment D"/>
+
+    <item
+        android:id="@+id/EFragment"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Fragment E"/>
+
+</menu>
